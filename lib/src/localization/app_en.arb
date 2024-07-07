@@ -1,0 +1,6 @@
+{
+  "appTitle": "algo_visualizer",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
